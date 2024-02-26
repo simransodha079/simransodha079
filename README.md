@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @simransodha079
--"Passionate MCA Student 👩‍🎓 | Eager to Excel in Web & App Development 🌐💻 | Proficient in ASP.NET, Android, Java, HTML, CSS | Seeking Opportunities to Innovate and Design the Future!
+-"Passionate MCA Student 👩‍🎓 | Eager to Excel in Web & App Development 🌐💻 | Proficient in ASP.NET, Android, Java, HTML, CSS,php | Seeking Opportunities to Innovate and Design the Future!
