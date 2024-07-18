@@ -11,11 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/simran sodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simran sodha" height="30" width="40" /></a>
 </p>
-<p align="left">
-    <a href="https://join.skype.com/invite/ueHZgDcCdM5N" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Skype_logo_%282019%E2%80%93present%29.svg" alt="Skype" height="30" width="40" />
-    </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
