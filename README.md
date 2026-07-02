@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm simran sodha</h1>
-<h3 align="center">"Passionate MCA Student 👩‍🎓 | Eager to Excel in Web & App Development 🌐💻 | Proficient in ASP.NET, Android,php, Java, HTML, CSS | Seeking Opportunities to Innovate and Design the Future!</h3>
-
+<h3 align="center">
+💻 PHP | Laravel | MySQL | Bootstrap | HTML | CSS | JavaScript Developer 🚀 Building modern, responsive, and impactful web applications.
+</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simransodha079&label=Profile%20views&color=0e75b6&style=flat" alt="simransodha079" /> </p>
